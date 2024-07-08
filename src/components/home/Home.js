@@ -1,10 +1,9 @@
 import React from 'react';
 
-export default function App() {
+export function Home() {
   return (<>
    
-   
-   Index
+   Home
    
    </>
   );
